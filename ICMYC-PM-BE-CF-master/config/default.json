@@ -1,0 +1,10 @@
+{
+  "local_url" : "mongodb://3.6.99.164:27017/dynamicForm",
+  "production_url": "mongodb://13.233.6.229:27017/dynamicForm",
+  "production_url_localhost": "mongodb://localhost:27017/dynamicForm",
+  "qa_profile_url": "qaprofile.icmyc.com",
+  "qa_profile_url_local": "http://qaprofile.icmyc.com/",
+  "production_profile_url": "profile.amashaar.in"
+}
+
+
